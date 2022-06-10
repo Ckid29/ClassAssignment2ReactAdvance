@@ -1,0 +1,13 @@
+
+.about-page{
+    padding: 3rem;
+    background-color: #f1f4f5;
+}
+
+.about-page h1 {
+    color: rgb(8, 92, 89);
+}
+
+.about-page h6 {
+    color: #333;
+}
